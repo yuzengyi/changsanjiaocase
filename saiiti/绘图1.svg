@@ -1,0 +1,196 @@
+<svg width="479" height="383" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 479 383">
+    <style type="text/css"><![CDATA[
+.st1 {fill:#303030;font-family:宋体;font-size:10pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-156,-108)">
+        <g transform="translate(213,386)">
+            <g id="shape1">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M165,28L165,0L0,0L0,28L165,28z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="9.3" y="19">物品相关数据增加至列表</tspan>
+            </text>
+        </g>
+        <g transform="translate(193.88,291)">
+            <g id="shape2">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M101.1,61L202.2,30.5L101.1,0L0,30.5L101.1,61z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="41.4" y="27.8">判断输入的该行物品</tspan>
+                <tspan x="54.8" y="43.2">是否为同一订单</tspan>
+            </text>
+        </g>
+        <g transform="translate(210,185.65)">
+            <g id="shape3">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M170,55.4L170,0L0,0L0,55.4L170,55.4z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="12" y="17.3">面向对象，设置_cargo类</tspan>
+                <tspan x="12" y="32.7">表示物品，_container类</tspan>
+                <tspan x="58.7" y="48">表示箱子</tspan>
+            </text>
+        </g>
+        <g transform="translate(210,254)">
+            <g id="shape4">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M170,28L170,0L0,0L0,28L170,28z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="18.7" y="19">初始化物品和箱子列表</tspan>
+            </text>
+        </g>
+        <g transform="translate(295,352)" id="shape5">
+            <path stroke="#6d6d6d" d="M0,0L0,18L.4,29.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M.5,34L3.3,28.7C2.5,29.3,1.5,29.6,.4,29.6C-0.7,29.6,-1.8,29.4,-2.7,28.9L.5,34" fill="#6d6d6d"/>
+            <rect width="13.6" height="15.3" x="-4" fill="#ffffff" y="11.8"/>
+            <text class="st1">
+                <tspan x="-4.2" y="24.5">是</tspan>
+            </text>
+        </g>
+        <g transform="translate(213,400)" id="shape6">
+            <path stroke="#6d6d6d" d="M0,0L-51.1,0L-51.1,-78.5L-23.5,-78.5" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M-19.1,-78.5L-24.3,-81.5C-23.8,-80.6,-23.5,-79.6,-23.5,-78.5C-23.5,-77.4,-23.8,-76.4,-24.3,-75.5L-19.1,-78.5" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(410.62,221.5)">
+            <g id="shape7">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M165,49.5L165,0L0,0L0,49.5L165,49.5z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="9.3" y="14.4">遍历箱子种类，对物品列</tspan>
+                <tspan x="9.3" y="29.7">表中的数据采用可变策略</tspan>
+                <tspan x="22.7" y="45.1">的拟人式三维单装箱</tspan>
+            </text>
+        </g>
+        <g transform="translate(295,241)" id="shape8">
+            <path stroke="#6d6d6d" d="M0,0L0,8.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,13L3,7.8C2.1,8.3,1.1,8.6,0,8.6C-1.1,8.6,-2.1,8.3,-3,7.8L0,13" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(295,282)" id="shape9">
+            <path stroke="#6d6d6d" d="M0,0L0,4.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,9L3,3.8C2.1,4.3,1.1,4.6,0,4.6C-1.1,4.6,-2.1,4.3,-3,3.8L0,9" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(410.62,282)">
+            <g id="shape10">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M165,39L165,0L0,0L0,39L165,39z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="9.3" y="16.8">生成新的物品列表为剩余</tspan>
+                <tspan x="16" y="32.2">未装入箱子的物品信息</tspan>
+            </text>
+        </g>
+        <g transform="translate(493.12,271)" id="shape11">
+            <path stroke="#6d6d6d" d="M0,0L0,6.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,11L3,5.8C2.1,6.3,1.1,6.6,0,6.6C-1.1,6.6,-2.1,6.3,-3,5.8L0,11" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(213,431)">
+            <g id="shape12">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M28,56L122.5,56C138,56,150.5,43.5,150.5,28C150.5,12.5,138,0,122.5,0L28,0C12.5,0,0,12.5,0,28C0,43.5,12.5,56,28,56z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="48.9" y="17.7">  输出：</tspan>
+                <tspan x="8.9" y="33">装载该订单使用的箱子</tspan>
+                <tspan x="28.9" y="48.3">数量以及总体积</tspan>
+            </text>
+        </g>
+        <g transform="translate(410.62,390)">
+            <g id="shape13">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M165,21L165,0L0,0L0,21L165,21z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="52.7" y="15.5">箱子数加1</tspan>
+            </text>
+        </g>
+        <g transform="translate(410.62,168)">
+            <g id="shape14">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M165,35L165,0L0,0L0,35L165,35z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="9.3" y="14.8">初始选择容积最小的箱子</tspan>
+                <tspan x="56" y="30.2">进行装载</tspan>
+            </text>
+        </g>
+        <g transform="translate(493.12,203)" id="shape15">
+            <path stroke="#6d6d6d" d="M0,0L0,14.1" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,18.5L3,13.3C2.1,13.8,1.1,14.1,0,14.1C-1.1,14.1,-2.1,13.8,-3,13.3L0,18.5" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(410.62,335)">
+            <g id="shape16">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M165,35L165,0L0,0L0,35L165,35z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="9.3" y="14.8">选择订单中物品体积减少</tspan>
+                <tspan x="49.3" y="30.2">最多的方案</tspan>
+            </text>
+        </g>
+        <g transform="translate(493.12,321)" id="shape17">
+            <path stroke="#6d6d6d" d="M0,0L0,9.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,14L3,8.8C2.1,9.3,1.1,9.6,0,9.6C-1.1,9.6,-2.1,9.3,-3,8.8L0,14" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(493.12,370)" id="shape18">
+            <path stroke="#6d6d6d" d="M0,0L0,15.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,20L3,14.8C2.1,15.3,1.1,15.6,0,15.6C-1.1,15.6,-2.1,15.3,-3,14.8L0,20" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(396.12,321.5)" id="shape19">
+            <path stroke="#6d6d6d" d="M0,0L6.5,0L6.5,-136L10.1,-136" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M14.5,-136L9.3,-139C9.8,-138.1,10.1,-137.1,10.1,-136C10.1,-134.9,9.8,-133.9,9.3,-133L14.5,-136" fill="#6d6d6d"/>
+            <rect width="13.6" height="15.3" x="2" fill="#ffffff" y="-76.4"/>
+            <text class="st1">
+                <tspan x="1.8" y="-63.7">否</tspan>
+            </text>
+        </g>
+        <g transform="translate(205.5,109)">
+            <g id="shape20">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M30.4,60.8L149.6,60.8C166.4,60.8,180,47.2,180,30.4C180,13.6,166.4,0,149.6,0L30.4,0C13.6,0,0,13.6,0,30.4C0,47.2,13.6,60.8,30.4,60.8z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="16.7" y="20.1">输入：箱子长宽高数据和</tspan>
+                <tspan x="10" y="35.4">物品数量、长、宽、高数据</tspan>
+                <tspan x="50" y="50.7">以及所属订单</tspan>
+            </text>
+        </g>
+        <g transform="translate(295.5,169.8)" id="shape21">
+            <path stroke="#6d6d6d" d="M0,0L0,7.9L-0.2,11.5" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M-0.5,15.9L2.8,10.9C1.9,11.3,.9,11.5,-0.2,11.5C-1.3,11.4,-2.3,11,-3.2,10.5L-0.5,15.9" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(392,435)">
+            <g id="shape22">
+                <path stroke-opacity="0.08" stroke="#000000"/>
+                <path stroke="#6d6d6d" d="M101.1,48L202.2,24L101.1,0L0,24L101.1,48z" fill="none"/>
+            </g>
+            <text class="st1">
+                <tspan x="34.8" y="29">判断物品列表是否为空</tspan>
+            </text>
+        </g>
+        <g transform="translate(493.12,411)" id="shape23">
+            <path stroke="#6d6d6d" d="M0,0L0,19.6" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M0,24L3,18.8C2.1,19.3,1.1,19.6,0,19.6C-1.1,19.6,-2.1,19.3,-3,18.8L0,24" fill="#6d6d6d"/>
+        </g>
+        <g transform="translate(392,459)" id="shape24">
+            <path stroke="#6d6d6d" d="M0,0L-24.1,0" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M-28.5,0L-23.3,3C-23.8,2.1,-24.1,1.1,-24.1,0C-24.1,-1.1,-23.8,-2.1,-23.3,-3L-28.5,0" fill="#6d6d6d"/>
+            <rect width="13.6" height="15.3" x="-18.8" fill="#ffffff" y="-7.7"/>
+            <text class="st1">
+                <tspan x="-18.9" y="5">是</tspan>
+            </text>
+        </g>
+        <g transform="translate(594.23,459)" id="shape25">
+            <path stroke="#6d6d6d" d="M0,0L32,0L32,-273.5L-14.2,-273.5" fill="none"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#6d6d6d" d="M-18.6,-273.5L-13.4,-270.5C-13.9,-271.4,-14.2,-272.4,-14.2,-273.5C-14.2,-274.6,-13.9,-275.6,-13.4,-276.5L-18.6,-273.5" fill="#6d6d6d"/>
+            <rect width="13.6" height="15.3" x="27.5" fill="#ffffff" y="-153.7"/>
+            <text class="st1">
+                <tspan x="27.3" y="-141.1">否</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
